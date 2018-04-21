@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Steven",
+      "image": "https://vignette.wikia.nocookie.net/steven-universe/images/6/67/Boss.png/revision/latest/scale-to-width-down/483?cb=20150314044449"
+    },
+    {
+      "id": 2,
+      "name": "Garnet",
+      "image": "https://vignette.wikia.nocookie.net/steven-universe/images/1/16/GarnetByKmes.png/revision/latest/scale-to-width-down/287?cb=20160123075715"
+    },
+    {
+      "id": 3,
+      "name": "Pearl",
+      "image": "https://vignette.wikia.nocookie.net/steven-universe/images/8/8c/Current_Pearl_Request.png/revision/latest/scale-to-width-down/305?cb=20170807000053"
+    },
+    {
+      "id": 4,
+      "name": "Amethyst",
+      "image": "https://vignette.wikia.nocookie.net/steven-universe/images/5/53/Jfek_New_Gen.png/revision/latest/scale-to-width-down/350?cb=20160708025000"
+    },
+    {
+      "id": 5,
+      "name": "Opal",
+      "image": "https://vignette.wikia.nocookie.net/steven-universe/images/b/b3/Opal_Gen_3_by_Lenhi.png/revision/latest/scale-to-width-down/287?cb=20160507235259"
+    },
+    {
+      "id": 6,
+      "name": "Greg Universe",
+      "image": "https://vignette.wikia.nocookie.net/steven-universe/images/9/92/Greg_PantsCut.png/revision/latest/scale-to-width-down/350?cb=20150622153117"
+    },
+    {
+      "id": 7,
+      "name": "Onion",
+      "image": "https://vignette.wikia.nocookie.net/steven-universe/images/8/89/Hes_Onion.png/revision/latest/scale-to-width-down/350?cb=20160714080818"
+    },
+    {
+      "id": 8,
+      "name": "Bismuth",
+      "image": "https://vignette.wikia.nocookie.net/steven-universe/images/3/38/Bismuth_by_Lenhi.png/revision/latest/scale-to-width-down/350?cb=20170105131527"
+    },
+    {
+      "id": 9,
+      "name": "Connie",
+      "image": "https://vignette.wikia.nocookie.net/steven-universe/images/1/12/ConnieNewIntro.png/revision/latest/scale-to-width-down/350?cb=20160920145959"
+    },
+    {
+      "id": 10,
+      "name": "Ruby",
+      "image": "https://vignette.wikia.nocookie.net/steven-universe/images/f/f6/Ruby_-_Weaponized.png/revision/latest/scale-to-width-down/350?cb=20160606051342"
+    },
+    {
+      "id": 11,
+      "name": "Sapphire",
+      "image": "https://vignette.wikia.nocookie.net/steven-universe/images/6/64/Dan_Sapphy_ur_Freezies_with_Gem.png/revision/latest/scale-to-width-down/350?cb=20151106214440"
+    },
+    {
+      "id": 12,
+      "name": "Alexandrite",
+      "image": "https://vignette.wikia.nocookie.net/steven-universe/images/3/33/Alexandrite_New_Regen_by_Lenhi.png/revision/latest/scale-to-width-down/278?cb=20170506221452"
+    }
+  ]
+  
