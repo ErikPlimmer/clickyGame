@@ -18,6 +18,4 @@ function CharacterCard(props) {
 
 
 
-
-
 export default CharacterCard
