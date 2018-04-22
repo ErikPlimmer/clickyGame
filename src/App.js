@@ -53,15 +53,11 @@ class App extends Component {
       }
       else {
         clicked.push(id);
-        console.log("clicked is ", clicked);
         score  += 1;
         ids = this.reArrangeCards(ids);
         topScore = score > topScore ? score : topScore;
-        console.log("id is", id);
-        console.log("score", score);
-        console.log();
 
-        if (score === 11) {
+        if (score === 12) {
           this.setState({footerText: 'You Won! Play again?'})
           score = 0;
           setTimeout(() => {
